@@ -84,15 +84,15 @@ body {
 }
 
 .shop-title {
-    padding-top: 10%;
+    padding-top: 7%;
     font-weight: 700;
-    font-size: 44px;
-    line-height: 60px;
+    font-size: 40px;
+    line-height: 50px;
     text-align: center;
 }
 
 .shop-subtitle {
-    padding-top: 4%;
+    padding-top: 2%;
     font-size: 18px;
     text-align: center;
 }
@@ -105,7 +105,7 @@ body {
 }
 
 .dog-content img {
-    width: 45px;
+    width: 40px;
 }
 
 .dog-shop p {
